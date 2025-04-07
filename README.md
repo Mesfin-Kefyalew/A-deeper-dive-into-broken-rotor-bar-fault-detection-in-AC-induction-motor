@@ -1,4 +1,4 @@
-# A-deeper-dive-into-broken-rotor-bar-fault-detection-in-AC-induction-motor
+# Broken-rotor-bar-fault-detection-in-AC-induction-motor: A deep dive
 
 The original documentation for this project is the matlab help center where the application of diagnostic feature designer app within the software has been showcased. In this repository I will shed light on the details of the project by delving its every aspect as I understand it, playing with code and running it on my local machine , I explain the logic and technologies that was used to detect the fault associated with an AC induction motor via vibration analysis and machine learning. Let's break down the project: 
 
