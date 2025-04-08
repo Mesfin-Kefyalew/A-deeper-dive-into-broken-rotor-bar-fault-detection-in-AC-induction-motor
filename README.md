@@ -13,5 +13,9 @@ The details of how the raw experimental results are converted into members of th
 
 Once the variables of the ensamble datastore are incorporated into the ensamble variable, the diagnosticFeatureDesign is run and fed the initialized ensamble datastore. 
 
+Although, the auto features option is available in the MATLAB version of the documentation, the version on my local machine doesn't support this feature. So, I am limited to using the time domain feature 
+
+
+
 
   
